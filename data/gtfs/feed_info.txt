@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+"gtfs.de - GTFS für Deutschland, Daten bereitgestellt von DELFI e.V.",http://gtfs.de,de,20201213,20211211,light-2021-08-09,info@gtfs.de,http://gtfs.de/de/feeds
