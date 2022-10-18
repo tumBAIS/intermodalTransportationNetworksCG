@@ -4,7 +4,7 @@
 
 The goal of this software is to determine system optima of intermodal transportation networks. To do so, this software 
 provides the column generation approach proposed in the paper including our pricing filter and our A-star approach to 
-solve the pricing problems. A preprint of this paper is available on [arXiv](https://arxiv.org/abs/TODO).
+solve the pricing problems. A preprint of this paper is available on [arXiv](https://arxiv.org/abs/2210.09190).
 
 This software contains four folders: `data`, `Generator`, `Results`, `Solver`. 
 - `data`: contains data for the case study of our paper.
