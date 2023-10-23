@@ -25,7 +25,7 @@ The following input arguments are valid:
 
 | Argument | Inputs |
 | --- | --- |
-| mode | s = subway, b = bus, bst = bus-subway-tram |
+| mode | s = subway, b = bus, sbt = subway-bus-tram |
 | passengers | subway = {132, 308, 486, 662}, bus = {2632, 7896, 13160, 18424, 23688}, <br /> bus-subway-tram = {6255, 18765, 31275, 43785, 56295} |
 | seed | 0-9 |
 | Filter On | True, False |
