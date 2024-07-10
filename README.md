@@ -31,7 +31,7 @@ The following input arguments are valid:
 | Filter On | True, False |
 | A-star used | True, False |
 
-Running an instance  on the bus network with 263 passengers and seed 0 with our pricing filter active and the A-star algorithm can be done via 
+Running an instance  on the bus network with 2632 passengers and seed 0 with our pricing filter active and the A-star algorithm can be done via 
 `python ./start_run.py b 2632 0 True True`
 
 
